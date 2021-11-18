@@ -30,6 +30,8 @@ public class UserController {
     @PostMapping(value = "/login")
     public void login(@RequestBody User user) {
         // Spring security takes care
+        User user1 = new User();
+        user1.getClass();
     }
 
     @GetMapping(value = "/username/{username}")
