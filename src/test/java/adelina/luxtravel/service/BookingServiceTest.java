@@ -243,8 +243,8 @@ class BookingServiceTest {
         TravelingPoint departure = new TravelingPoint(1, "Vienna, Austria", 16.363449, 48.210033);
         TravelingPoint destination = new TravelingPoint(2, "Moscow, Russia", 37.618423, 55.751244);
         DepartureDestination departureDestination = new DepartureDestination(departure, destination);
-        LocalDate startingDate = LocalDate.of(2021, 5, 7);
-        LocalDate endingDate = LocalDate.of(2021, 5, 26);
+        LocalDate startingDate = LocalDate.of(2022, 10, 7);
+        LocalDate endingDate = LocalDate.of(2022, 10, 26);
         Date date = new Date(startingDate, endingDate);
         Transport transport = new Airplane(1, TransportClass.ECONOMY);
         ExcursionTransport excursionTransport = new ExcursionTransport(transport);
