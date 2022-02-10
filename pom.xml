@@ -16,7 +16,7 @@
 
     <properties>
         <lombok.version>1.18.8</lombok.version>
-        <hibernate.version>5.4.2.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <spring-boot-starter-data.verson>2.1.4.RELEASE</spring-boot-starter-data.verson>
         <apache.commons.lang3.version>3.9</apache.commons.lang3.version>
         <spring-boot-test-starter.version>2.2.4.RELEASE</spring-boot-test-starter.version>
