@@ -28,7 +28,7 @@
         <surefire.version>2.22.2</surefire.version>
         <build.helper.version>1.10</build.helper.version>
         <failsafe.version>2.22.2</failsafe.version>
-        <mysql.connector.version>8.0.21</mysql.connector.version>
+        <mysql.connector.version>8.0.28</mysql.connector.version>
     </properties>
 
     <dependencies>
