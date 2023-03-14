@@ -22,8 +22,8 @@
         <spring-boot-test-starter.version>2.2.4.RELEASE</spring-boot-test-starter.version>
         <sonarqube.version>3.6.0.1398</sonarqube.version>
         <bean.validation.api.version>2.0.1.Final</bean.validation.api.version>
-        <hibernate.validator.version>6.1.0.Final</hibernate.validator.version>
-        <hibernate.validator.processor.annotation.version>6.0.17.Final
+        <hibernate.validator.version> 6.1.5.Final</hibernate.validator.version>
+        <hibernate.validator.processor.annotation.version> 6.1.5.Final
         </hibernate.validator.processor.annotation.version>
         <surefire.version>2.22.2</surefire.version>
         <build.helper.version>1.10</build.helper.version>
